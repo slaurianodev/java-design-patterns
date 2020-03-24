@@ -27,3 +27,9 @@ JDK Examples: java.lang.Runtime, java.awt.Desktop.
 
 __Facade__ [example](facade/src/pt/com/srg/facade) [<span style="color:green">definition</span>](https://www.tutorialspoint.com/design_pattern/facade_pattern.htm)  
 Provides a unified interface to a set of interfaces in a subsystem.
+
+__Factory__ [example](factory/src/pt/com/srg/factory) [<span style="color:green">definition</span>](https://www.tutorialspoint.com/design_pattern/factory_pattern.htm)  
+Used when we have a super class with multiple subclasses and based on input, we need to return one of the sub-class.
+
+__Decorator__ [example](decorator/src/pt/com/srg/decorator) [definition](https://www.tutorialspoint.com/design_pattern/decorator_pattern.htm)  
+Allows a user to add new functionality to an existing object without altering its structure.
