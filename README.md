@@ -21,6 +21,6 @@ JDK examples:
 * All non-abstract methods of java.io.InputStream,java.io.OutputStream, java.io.Reader and java.io.Writer.  
 * All non-abstract methods of java.util.AbstractList, java.util.AbstractSet and java.util.AbstractMap.  
 
-__Singleton__ [example](singleton/srg/pt/com/srg/singleton) [<span style="color:green">definition</span>](https://www.tutorialspoint.com/design_pattern/singleton_pattern.htm)  
+__Singleton__ [example](singleton/src/pt/com/srg/singleton) [<span style="color:green">definition</span>](https://www.tutorialspoint.com/design_pattern/singleton_pattern.htm)  
 Singleton pattern restricts the instantiation of a class and ensures that only one instance of the class exists in the java virtual machine. Used for logging, driver objects, caching and thread pool.
 JDK Examples: java.lang.Runtime, java.awt.Desktop.
