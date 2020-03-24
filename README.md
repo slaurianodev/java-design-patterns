@@ -1,12 +1,12 @@
 # java-design-patterns
 Some examples of Java design patterns  
 
-__Null Object__ [example](/nullobject/src/pt/com/srg/nullobject/
+__Null Object__ [example](/nullobject/src/main/java/pt/com/srg/nullobject/
 ) [<span style="color:green">definition</span>](https://www.tutorialspoint.com/design_pattern/null_object_pattern.htm)  
 Avoid null pointer exception and make validations.  
 JDK Example: Optional (JDK 8+)  
 
-__Strategy__ [example](/strategy/src/pt/com/srg/strategy/
+__Strategy__ [example](/strategy/src/main/java/pt/com/srg/strategy/
 ) [<span style="color:green">definition</span>](https://www.tutorialspoint.com/design_pattern/strategy_pattern.htm)  
 Defines multiple algorithms and let client application pass the algorithm to be used as a parameter.
 
