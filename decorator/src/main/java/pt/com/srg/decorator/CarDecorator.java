@@ -8,7 +8,7 @@ public class CarDecorator implements Car {
     }
 
     @Override
-    public void assemble() {
-        this.car.assemble();
+    public String assemble() {
+        return this.car.assemble();
     }
 }
